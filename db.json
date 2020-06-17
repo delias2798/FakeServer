@@ -1,21 +1,21 @@
 {
-  "posts":
+  "posts":[
 	  {
-  "medidas": [
-	{
-"fecha": "21/5/2020",
-  	"pais": "Costa Rica",
-  	"nombre": "cierre de locales",
-  	"descripcion": "no se permiten locales con más de 20 personas"
-	},
-	{
-	"fecha": "26/5/2020",
-  	"pais": "Costa Rica",
-  	"nombre": "limitar el tráfico",
-  	"descripcion": "no se permite circular despueś de las 7pm"
+  	"medidas": [
+		{
+		"fecha": "21/5/2020",
+  		"pais": "Costa Rica",
+  		"nombre": "cierre de locales",
+  		"descripcion": "no se permiten locales con más de 20 personas"
+		},
+		{
+		"fecha": "26/5/2020",
+  		"pais": "Costa Rica",
+  		"nombre": "limitar el tráfico",
+  		"descripcion": "no se permite circular despueś de las 7pm"
+		}
+  		]
 	}
-  ]
-}
-	  
+	]
 }
 
